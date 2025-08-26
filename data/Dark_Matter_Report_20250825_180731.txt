@@ -1,0 +1,285 @@
+================================================================================
+ZVT DARK MATTER HUNTER - FINAL REPORT
+================================================================================
+
+Date: 2025-08-25T18:07:31.066384
+Zeros file: /home/jeff/zeta/zero.txt
+Total zeros processed: 2,001,052
+
+DARK MATTER CONSTANTS ANALYZED:
+--------------------------------------------------------------------------------
+Dark Matter Density: 1.180000000000000e-26
+Omega Dm: 2.589000000000000e-01
+Wimp Mass Light: 1.000000000000000e-03
+Wimp Mass Medium: 1.000000000000000e+01
+Wimp Mass Heavy: 1.000000000000000e+03
+Axion Mass: 1.000000000000000e-05
+Sterile Neutrino Mass: 1.000000000000000e-03
+Primordial Black Hole Mass: 1.000000000000000e-12
+Self Interaction Cross Section: 9.999999999999999e-25
+Dm Annihilation Rate: 3.000000000000000e-26
+Dm Scattering Cross Section: 1.000000000000000e-45
+Neutralino Mass: 1.000000000000000e+02
+Kaluza Klein Mass: 5.000000000000000e+02
+Gravitino Mass: 1.000000000000000e-03
+Dark Photon Mass: 1.000000000000000e-03
+Freeze Out Temperature: 2.000000000000000e+01
+Dm Velocity Dispersion: 2.200000000000000e+02
+Local Dm Density: 3.000000000000000e-01
+Galactic Escape Velocity: 5.440000000000000e+02
+Mond Acceleration: 1.200000000000000e-10
+Bullet Cluster Constraint: 9.999999999999999e-25
+Wdm Mass: 3.000000000000000e+00
+Superheavy Dm Mass: 1.000000000000000e+12
+Asymmetric Dm Mass: 5.000000000000000e+00
+Mirror Dm Mass: 1.000000000000000e+00
+Dm Self Coupling: 1.000000000000000e-10
+
+DESCRIPTION OF DARK MATTER CONSTANTS:
+--------------------------------------------------------------------------------
+Dark Matter Density: Average dark matter density in the universe
+Omega Dm: Dark matter density parameter (Ω_dm)
+Wimp Mass Light: Light WIMP (Weakly Interacting Massive Particle) mass
+Wimp Mass Medium: Medium WIMP mass
+Wimp Mass Heavy: Heavy WIMP mass
+Axion Mass: Theoretical axion mass
+Sterile Neutrino Mass: Sterile neutrino mass
+Primordial Black Hole Mass: Primordial black hole mass
+Self Interaction Cross Section: Self-interaction cross section
+Dm Annihilation Rate: Dark matter annihilation rate
+Dm Scattering Cross Section: Dark matter scattering cross section
+Neutralino Mass: Neutralino mass (supersymmetric candidate)
+Kaluza Klein Mass: Kaluza-Klein particle mass
+Gravitino Mass: Gravitino mass
+Dark Photon Mass: Dark photon mass
+Freeze Out Temperature: Thermal decoupling temperature
+Dm Velocity Dispersion: Dark matter velocity dispersion
+Local Dm Density: Local dark matter density
+Galactic Escape Velocity: Milky Way escape velocity
+Mond Acceleration: MOND acceleration scale
+Bullet Cluster Constraint: Bullet Cluster constraint
+Wdm Mass: Warm Dark Matter mass
+Superheavy Dm Mass: Super-heavy dark matter mass
+Asymmetric Dm Mass: Asymmetric dark matter mass
+Mirror Dm Mass: Mirror dark matter mass
+Dm Self Coupling: Self-coupling constant
+
+RESULTS OF BEST DARK MATTER RESONANCES:
+--------------------------------------------------------------------------------
+
+DARK MATTER DENSITY:
+  Zero #1,561,564
+  Gamma: 902235.291868090978824
+  Quality: 1.929529245813508e-32
+  Relative error: 0.000163519428%
+  Tolerance: 1e-27
+  Estimated mass: 9022.352919 GeV/c²
+
+OMEGA DM:
+  Zero #1,189,204
+  Gamma: 703209.940499924006872
+  Quality: 7.604475393829802e-08
+  Relative error: 0.000029372249%
+  Tolerance: 1e-02
+  Estimated mass: 7032.099405 GeV/c²
+
+WIMP MASS LIGHT:
+  Zero #1,101,120
+  Gamma: 655461.410999999032356
+  Quality: 9.812886865925852e-10
+  Relative error: 0.000098128869%
+  Tolerance: 1e-04
+  Estimated mass: 6554.614110 GeV/c²
+
+WIMP MASS MEDIUM:
+  Zero #124,170
+  Gamma: 90930.000001409003744
+  Quality: 1.409003743901849e-06
+  Relative error: 0.000014090037%
+  Tolerance: 1e-01
+  Estimated mass: 909.300000 GeV/c²
+
+WIMP MASS HEAVY:
+  Zero #1,270,440
+  Gamma: 747000.000154817942530
+  Quality: 1.548179425299168e-04
+  Relative error: 0.000015481794%
+  Tolerance: 1e+02
+  Estimated mass: 7470.000002 GeV/c²
+
+AXION MASS:
+  Zero #222,520
+  Gamma: 153571.708600000012666
+  Quality: 1.033522564948021e-13
+  Relative error: 0.000001033523%
+  Tolerance: 1e-06
+  Estimated mass: 1535.717086 GeV/c²
+
+STERILE NEUTRINO MASS:
+  Zero #1,101,120
+  Gamma: 655461.410999999032356
+  Quality: 9.812886865925852e-10
+  Relative error: 0.000098128869%
+  Tolerance: 1e-04
+  Estimated mass: 6554.614110 GeV/c²
+
+PRIMORDIAL BLACK HOLE MASS:
+  Zero #1,464,089
+  Gamma: 850531.809086109045893
+  Quality: 1.486437338727841e-19
+  Relative error: 0.000014864373%
+  Tolerance: 1e-13
+  Estimated mass: 8505.318091 GeV/c²
+
+SELF INTERACTION CROSS SECTION:
+  Zero #1,825,050
+  Gamma: 1040798.101262166979723
+  Quality: 2.856641236058671e-31
+  Relative error: 0.000028566412%
+  Tolerance: 1e-25
+  Estimated mass: 10407.981013 GeV/c²
+
+DM ANNIHILATION RATE:
+  Zero #1,571,205
+  Gamma: 907335.461247688042931
+  Quality: 9.077498220164332e-33
+  Relative error: 0.000030258327%
+  Tolerance: 1e-27
+  Estimated mass: 9073.354612 GeV/c²
+
+DM SCATTERING CROSS SECTION:
+  Zero #1,288,135
+  Gamma: 756509.091992035973817
+  Quality: 4.593857867684061e-52
+  Relative error: 0.000045938579%
+  Tolerance: 1e-46
+  Estimated mass: 7565.090920 GeV/c²
+
+NEUTRALINO MASS:
+  Zero #1,821,802
+  Gamma: 1039100.000045789987780
+  Quality: 4.578998778015375e-05
+  Relative error: 0.000045789988%
+  Tolerance: 1e+01
+  Estimated mass: 10391.000000 GeV/c²
+
+KALUZA KLEIN MASS:
+  Zero #622,064
+  Gamma: 389499.999945825024042
+  Quality: 5.417497595772147e-05
+  Relative error: 0.000010834995%
+  Tolerance: 1e+02
+  Estimated mass: 3894.999999 GeV/c²
+
+GRAVITINO MASS:
+  Zero #1,101,120
+  Gamma: 655461.410999999032356
+  Quality: 9.812886865925852e-10
+  Relative error: 0.000098128869%
+  Tolerance: 1e-04
+  Estimated mass: 6554.614110 GeV/c²
+
+DARK PHOTON MASS:
+  Zero #1,101,120
+  Gamma: 655461.410999999032356
+  Quality: 9.812886865925852e-10
+  Relative error: 0.000098128869%
+  Tolerance: 1e-04
+  Estimated mass: 6554.614110 GeV/c²
+
+FREEZE OUT TEMPERATURE:
+  Zero #1,991,479
+  Gamma: 1127520.000005159992725
+  Quality: 5.159992724657059e-06
+  Relative error: 0.000025799964%
+  Tolerance: 1e+00
+  Estimated mass: 11275.200000 GeV/c²
+
+DM VELOCITY DISPERSION:
+  Zero #1,362,161
+  Gamma: 796180.000029069022276
+  Quality: 2.906902227550745e-05
+  Relative error: 0.000013213192%
+  Tolerance: 1e+01
+  Estimated mass: 7961.800000 GeV/c²
+
+LOCAL DM DENSITY:
+  Zero #1,367,455
+  Gamma: 799010.699999972013757
+  Quality: 2.795667403132640e-08
+  Relative error: 0.000009318891%
+  Tolerance: 1e-01
+  Estimated mass: 7990.107000 GeV/c²
+
+GALACTIC ESCAPE VELOCITY:
+  Zero #1,710,635
+  Gamma: 980831.999784886953421
+  Quality: 2.151130465790629e-04
+  Relative error: 0.000039542839%
+  Tolerance: 1e+01
+  Estimated mass: 9808.319998 GeV/c²
+
+MOND ACCELERATION:
+  Zero #49,844
+  Gamma: 40321.980170738999732
+  Quality: 1.503785857249302e-17
+  Relative error: 0.000012531549%
+  Tolerance: 1e-11
+  Estimated mass: 403.219802 GeV/c²
+
+BULLET CLUSTER CONSTRAINT:
+  Zero #1,825,050
+  Gamma: 1040798.101262166979723
+  Quality: 2.856641236058671e-31
+  Relative error: 0.000028566412%
+  Tolerance: 1e-25
+  Estimated mass: 10407.981013 GeV/c²
+
+WDM MASS:
+  Zero #124,170
+  Gamma: 90930.000001409003744
+  Quality: 1.409003743901849e-06
+  Relative error: 0.000046966791%
+  Tolerance: 1e-01
+  Estimated mass: 909.300000 GeV/c²
+
+SUPERHEAVY DM MASS:
+  Zero #1
+  Gamma: 14.134725142000001
+  Quality: 1.413472514200000e+01
+  Relative error: 0.000000001413%
+  Tolerance: 1e+11
+  Estimated mass: 0.141347 GeV/c²
+
+ASYMMETRIC DM MASS:
+  Zero #124,170
+  Gamma: 90930.000001409003744
+  Quality: 1.409003743901849e-06
+  Relative error: 0.000028180075%
+  Tolerance: 1e-01
+  Estimated mass: 909.300000 GeV/c²
+
+MIRROR DM MASS:
+  Zero #977,155
+  Gamma: 587741.000000169966370
+  Quality: 1.699663698673248e-07
+  Relative error: 0.000016996637%
+  Tolerance: 1e-01
+  Estimated mass: 5877.410000 GeV/c²
+
+DM SELF COUPLING:
+  Zero #62,319
+  Gamma: 49159.812620060001791
+  Quality: 1.080302687981565e-17
+  Relative error: 0.000010803027%
+  Tolerance: 1e-11
+  Estimated mass: 491.598126 GeV/c²
+
+================================================================================
+PARTICLE PHYSICS IMPLICATIONS:
+--------------------------------------------------------------------------------
+1. Dark matter represents ~27% of the universe's mass-energy
+2. Critical for galaxy formation and large-scale structure
+3. Connection with beyond Standard Model physics
+4. Potential link between number theory and particle masses
+5. Resonances may guide experimental dark matter searches

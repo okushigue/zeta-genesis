@@ -1,0 +1,241 @@
+{
+  "last_processed_index": 2001052,
+  "best_resonances": {
+    "dark_matter_density": {
+      "zero_index": 1561564,
+      "gamma": 902235.291868091,
+      "quality": 1.929529245813508e-32,
+      "tolerance": 1e-27,
+      "constant_name": "dark_matter_density",
+      "constant_value": 1.18e-26,
+      "mass_gev": 9022.35291868091
+    },
+    "omega_dm": {
+      "zero_index": 1189204,
+      "gamma": 703209.940499924,
+      "quality": 7.604475393829802e-08,
+      "tolerance": 0.01,
+      "constant_name": "omega_dm",
+      "constant_value": 0.2589,
+      "mass_gev": 7032.0994049992405
+    },
+    "wimp_mass_light": {
+      "zero_index": 1101120,
+      "gamma": 655461.410999999,
+      "quality": 9.812886865925852e-10,
+      "tolerance": 0.0001,
+      "constant_name": "wimp_mass_light",
+      "constant_value": 0.001,
+      "mass_gev": 6554.61410999999
+    },
+    "wimp_mass_medium": {
+      "zero_index": 124170,
+      "gamma": 90930.000001409,
+      "quality": 1.4090037439018488e-06,
+      "tolerance": 0.1,
+      "constant_name": "wimp_mass_medium",
+      "constant_value": 10.0,
+      "mass_gev": 909.3000000140901
+    },
+    "wimp_mass_heavy": {
+      "zero_index": 1270440,
+      "gamma": 747000.000154818,
+      "quality": 0.00015481794252991676,
+      "tolerance": 100.0,
+      "constant_name": "wimp_mass_heavy",
+      "constant_value": 1000.0,
+      "mass_gev": 7470.000001548179
+    },
+    "axion_mass": {
+      "zero_index": 222520,
+      "gamma": 153571.7086,
+      "quality": 1.0335225649480209e-13,
+      "tolerance": 1e-06,
+      "constant_name": "axion_mass",
+      "constant_value": 1e-05,
+      "mass_gev": 1535.717086
+    },
+    "sterile_neutrino_mass": {
+      "zero_index": 1101120,
+      "gamma": 655461.410999999,
+      "quality": 9.812886865925852e-10,
+      "tolerance": 0.0001,
+      "constant_name": "sterile_neutrino_mass",
+      "constant_value": 0.001,
+      "mass_gev": 6554.61410999999
+    },
+    "primordial_black_hole_mass": {
+      "zero_index": 1464089,
+      "gamma": 850531.809086109,
+      "quality": 1.4864373387278413e-19,
+      "tolerance": 1e-13,
+      "constant_name": "primordial_black_hole_mass",
+      "constant_value": 1e-12,
+      "mass_gev": 8505.31809086109
+    },
+    "self_interaction_cross_section": {
+      "zero_index": 1825050,
+      "gamma": 1040798.101262167,
+      "quality": 2.8566412360586714e-31,
+      "tolerance": 1e-25,
+      "constant_name": "self_interaction_cross_section",
+      "constant_value": 1e-24,
+      "mass_gev": 10407.981012621669
+    },
+    "dm_annihilation_rate": {
+      "zero_index": 1571205,
+      "gamma": 907335.461247688,
+      "quality": 9.077498220164332e-33,
+      "tolerance": 1e-27,
+      "constant_name": "dm_annihilation_rate",
+      "constant_value": 3e-26,
+      "mass_gev": 9073.35461247688
+    },
+    "dm_scattering_cross_section": {
+      "zero_index": 1288135,
+      "gamma": 756509.091992036,
+      "quality": 4.593857867684061e-52,
+      "tolerance": 1e-46,
+      "constant_name": "dm_scattering_cross_section",
+      "constant_value": 1e-45,
+      "mass_gev": 7565.09091992036
+    },
+    "neutralino_mass": {
+      "zero_index": 1821802,
+      "gamma": 1039100.00004579,
+      "quality": 4.578998778015375e-05,
+      "tolerance": 10.0,
+      "constant_name": "neutralino_mass",
+      "constant_value": 100.0,
+      "mass_gev": 10391.0000004579
+    },
+    "kaluza_klein_mass": {
+      "zero_index": 622064,
+      "gamma": 389499.999945825,
+      "quality": 5.417497595772147e-05,
+      "tolerance": 100.0,
+      "constant_name": "kaluza_klein_mass",
+      "constant_value": 500.0,
+      "mass_gev": 3894.9999994582504
+    },
+    "gravitino_mass": {
+      "zero_index": 1101120,
+      "gamma": 655461.410999999,
+      "quality": 9.812886865925852e-10,
+      "tolerance": 0.0001,
+      "constant_name": "gravitino_mass",
+      "constant_value": 0.001,
+      "mass_gev": 6554.61410999999
+    },
+    "dark_photon_mass": {
+      "zero_index": 1101120,
+      "gamma": 655461.410999999,
+      "quality": 9.812886865925852e-10,
+      "tolerance": 0.0001,
+      "constant_name": "dark_photon_mass",
+      "constant_value": 0.001,
+      "mass_gev": 6554.61410999999
+    },
+    "freeze_out_temperature": {
+      "zero_index": 1991479,
+      "gamma": 1127520.00000516,
+      "quality": 5.159992724657059e-06,
+      "tolerance": 1,
+      "constant_name": "freeze_out_temperature",
+      "constant_value": 20.0,
+      "mass_gev": 11275.2000000516
+    },
+    "dm_velocity_dispersion": {
+      "zero_index": 1362161,
+      "gamma": 796180.000029069,
+      "quality": 2.906902227550745e-05,
+      "tolerance": 10.0,
+      "constant_name": "dm_velocity_dispersion",
+      "constant_value": 220.0,
+      "mass_gev": 7961.80000029069
+    },
+    "local_dm_density": {
+      "zero_index": 1367455,
+      "gamma": 799010.699999972,
+      "quality": 2.79566740313264e-08,
+      "tolerance": 0.1,
+      "constant_name": "local_dm_density",
+      "constant_value": 0.3,
+      "mass_gev": 7990.10699999972
+    },
+    "galactic_escape_velocity": {
+      "zero_index": 1710635,
+      "gamma": 980831.999784887,
+      "quality": 0.00021511304657906294,
+      "tolerance": 10.0,
+      "constant_name": "galactic_escape_velocity",
+      "constant_value": 544.0,
+      "mass_gev": 9808.31999784887
+    },
+    "mond_acceleration": {
+      "zero_index": 49844,
+      "gamma": 40321.980170739,
+      "quality": 1.503785857249302e-17,
+      "tolerance": 1e-11,
+      "constant_name": "mond_acceleration",
+      "constant_value": 1.2e-10,
+      "mass_gev": 403.21980170739
+    },
+    "bullet_cluster_constraint": {
+      "zero_index": 1825050,
+      "gamma": 1040798.101262167,
+      "quality": 2.8566412360586714e-31,
+      "tolerance": 1e-25,
+      "constant_name": "bullet_cluster_constraint",
+      "constant_value": 1e-24,
+      "mass_gev": 10407.981012621669
+    },
+    "wdm_mass": {
+      "zero_index": 124170,
+      "gamma": 90930.000001409,
+      "quality": 1.4090037439018488e-06,
+      "tolerance": 0.1,
+      "constant_name": "wdm_mass",
+      "constant_value": 3.0,
+      "mass_gev": 909.3000000140901
+    },
+    "superheavy_dm_mass": {
+      "zero_index": 1,
+      "gamma": 14.134725142,
+      "quality": 14.134725142,
+      "tolerance": 100000000000.0,
+      "constant_name": "superheavy_dm_mass",
+      "constant_value": 1000000000000.0,
+      "mass_gev": 0.14134725142000001
+    },
+    "asymmetric_dm_mass": {
+      "zero_index": 124170,
+      "gamma": 90930.000001409,
+      "quality": 1.4090037439018488e-06,
+      "tolerance": 0.1,
+      "constant_name": "asymmetric_dm_mass",
+      "constant_value": 5.0,
+      "mass_gev": 909.3000000140901
+    },
+    "mirror_dm_mass": {
+      "zero_index": 977155,
+      "gamma": 587741.00000017,
+      "quality": 1.6996636986732483e-07,
+      "tolerance": 0.1,
+      "constant_name": "mirror_dm_mass",
+      "constant_value": 1.0,
+      "mass_gev": 5877.4100000017
+    },
+    "dm_self_coupling": {
+      "zero_index": 62319,
+      "gamma": 49159.81262006,
+      "quality": 1.0803026879815646e-17,
+      "tolerance": 1e-11,
+      "constant_name": "dm_self_coupling",
+      "constant_value": 1e-10,
+      "mass_gev": 491.5981262006
+    }
+  },
+  "start_time": 1756113539.0417557,
+  "total_zeros": 2001052
+}

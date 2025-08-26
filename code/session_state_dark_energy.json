@@ -1,0 +1,115 @@
+{
+  "last_processed_index": 2001052,
+  "best_resonances": {
+    "hubble_constant": {
+      "zero_index": 691040,
+      "gamma": 428602.804981952,
+      "quality": 6.4455531630454285e-25,
+      "tolerance": 1e-19,
+      "constant_name": "hubble_constant",
+      "constant_value": 2.197e-18,
+      "energy_gev": 42860.2804981952
+    },
+    "cosmological_constant": {
+      "zero_index": 468254,
+      "gamma": 300929.823372313,
+      "quality": 1.9635636414111238e-59,
+      "tolerance": 1e-53,
+      "constant_name": "cosmological_constant",
+      "constant_value": 1.1056e-52,
+      "energy_gev": 30092.9823372313
+    },
+    "dark_energy_density": {
+      "zero_index": 1799384,
+      "gamma": 1027371.866444392,
+      "quality": 1.0796609835973745e-33,
+      "tolerance": 1e-28,
+      "constant_name": "dark_energy_density",
+      "constant_value": 5.96e-27,
+      "energy_gev": 102737.1866444392
+    },
+    "critical_density": {
+      "zero_index": 1171091,
+      "gamma": 693414.731781548,
+      "quality": 7.823491410659033e-33,
+      "tolerance": 1e-28,
+      "constant_name": "critical_density",
+      "constant_value": 8.62e-27,
+      "energy_gev": 69341.4731781548
+    },
+    "omega_lambda": {
+      "zero_index": 699221,
+      "gamma": 433218.898399993,
+      "quality": 6.952279640870529e-09,
+      "tolerance": 0.01,
+      "constant_name": "omega_lambda",
+      "constant_value": 0.6889,
+      "energy_gev": 43321.889839999305
+    },
+    "equation_of_state": {
+      "zero_index": 977155,
+      "gamma": 587741.00000017,
+      "quality": -0.9999998300336301,
+      "tolerance": 0.01,
+      "constant_name": "equation_of_state",
+      "constant_value": -1.0,
+      "energy_gev": 58774.100000016995
+    },
+    "planck_time": {
+      "zero_index": 13602,
+      "gamma": 12895.364442079,
+      "quality": 7.112306862627232e-52,
+      "tolerance": 1e-45,
+      "constant_name": "planck_time",
+      "constant_value": 5.391247e-44,
+      "energy_gev": 1289.5364442079
+    },
+    "planck_length": {
+      "zero_index": 1452430,
+      "gamma": 844330.079479689,
+      "quality": 2.4695418204621015e-42,
+      "tolerance": 1e-36,
+      "constant_name": "planck_length",
+      "constant_value": 1.616255e-35,
+      "energy_gev": 84433.0079479689
+    },
+    "vacuum_energy_scale": {
+      "zero_index": 686930,
+      "gamma": 426282.7536,
+      "quality": 3.371171831273445e-11,
+      "tolerance": 0.0001,
+      "constant_name": "vacuum_energy_scale",
+      "constant_value": 0.0024,
+      "energy_gev": 42628.27536
+    },
+    "quintessence_mass": {
+      "zero_index": 1333504,
+      "gamma": 780843.168681558,
+      "quality": 6.865213656772853e-42,
+      "tolerance": 1e-34,
+      "constant_name": "quintessence_mass",
+      "constant_value": 3.16e-33,
+      "energy_gev": 78084.3168681558
+    },
+    "dark_energy_scale": {
+      "zero_index": 686930,
+      "gamma": 426282.7536,
+      "quality": 3.371171831273445e-11,
+      "tolerance": 0.0001,
+      "constant_name": "dark_energy_scale",
+      "constant_value": 0.0024,
+      "energy_gev": 42628.27536
+    },
+    "acceleration_scale": {
+      "zero_index": 49844,
+      "gamma": 40321.980170739,
+      "quality": 1.503785857249302e-17,
+      "tolerance": 1e-11,
+      "constant_name": "acceleration_scale",
+      "constant_value": 1.2e-10,
+      "energy_gev": 4032.1980170739
+    }
+  },
+  "start_time": 1756113615.4989727,
+  "total_zeros": 2001052
+}

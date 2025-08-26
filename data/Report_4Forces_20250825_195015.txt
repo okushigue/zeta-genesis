@@ -1,0 +1,63 @@
+================================================================================
+ZVT 4 FUNDAMENTAL FORCES HUNTER - COMPREHENSIVE REPORT
+================================================================================
+
+Date: 2025-08-25T19:50:15.910471
+Version: Four Forces Hunter v2.0
+Final Batch: #201
+Zeros Analyzed: 2,001,052
+Source File: /home/jeff/zeta/zero.txt
+
+CONFIGURATION OF THE 4 FUNDAMENTAL FORCES:
+  Electromagnetic: 7.297352569283802e-03 (tolerances: 1e-04, 1e-05, 1e-06, 1e-07, 1e-08, 1e-09)
+  Strong: 1.185000000000000e-01 (tolerances: 1e-02, 1e-03, 1e-04, 1e-05, 1e-06, 1e-07)
+  Weak: 3.380000000000000e-02 (tolerances: 1e-03, 1e-04, 1e-05, 1e-06, 1e-07, 1e-08)
+  Gravitational: 5.906000000000000e-39 (tolerances: 1e-38, 1e-39, 1e-40, 1e-41, 1e-42, 1e-43)
+
+Precision: 50 decimal places
+
+SIGNIFICANCE CRITERIA:
+  min_resonances: 10
+  min_significance_factor: 2.0
+  max_p_value: 0.01
+  min_chi2_stat: 6.635
+
+================================================================================
+
+BEST GLOBAL RESONANCES FOUND:
+| Force         | Zero #        | Gamma                | Quality        | Energy (GeV) |
+|---------------|---------------|----------------------|------------------|---------------|
+| electromagnetic |       118,412 | 87144.853030040001613 | 9.091261e-10 |   8714.485303 |
+| strong        |     1,978,224 | 1120633.643999994965270 | 4.980134e-09 | 112063.364400 |
+| weak          |       539,638 | 342296.588399976026267 | 2.394045e-08 |  34229.658840 |
+| gravitational |     1,593,106 | 918912.088619107031263 | 1.691571e-45 |  91891.208862 |
+
+DETAILS OF BEST RESONANCES:
+
+ELECTROMAGNETIC:
+   Zero #118,412 (γ = 87144.853030040001613)
+   Quality: 9.091261198718170e-10
+   Relative error: 0.000012458301%
+   Tolerance: 1e-04
+   Estimated energy: 8714.485303 GeV
+
+STRONG:
+   Zero #1,978,224 (γ = 1120633.643999994965270)
+   Quality: 4.980134082899212e-09
+   Relative error: 0.000004202645%
+   Tolerance: 1e-02
+   Estimated energy: 112063.364400 GeV
+
+WEAK:
+   Zero #539,638 (γ = 342296.588399976026267)
+   Quality: 2.394045284237478e-08
+   Relative error: 0.000070829742%
+   Tolerance: 1e-03
+   Estimated energy: 34229.658840 GeV
+
+GRAVITATIONAL:
+   Zero #1,593,106 (γ = 918912.088619107031263)
+   Quality: 1.691570666845326e-45
+   Relative error: 0.000028641562%
+   Tolerance: 1e-38
+   Estimated energy: 91891.208862 GeV

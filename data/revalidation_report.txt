@@ -1,0 +1,24 @@
+QUANTUM EXPERIMENT REPORT
+==================================================
+
+EXPERIMENT CONFIGURATION
+------------------------------
+Date: 2025-08-25T20:56:54.058427
+Shots: 20000
+Seed: 42
+Backends: aer_simulator
+Target states: 0000, 0001, 0010, 0011
+Baseline probability (p0): 0.25
+Grover iterations: 1
+Optimization level: 1
+
+RESULTS SUMMARY
+------------------------------
+
+Backend: aer_simulator
+  Circuits executed: 1/1
+  Average success rate: 1.0000
+  Average effect size: 2.0944
+  Minimum p-value: 0
+  Circuit details:
+    Circuit 0: p_obs=1.0000, p_value=0
